@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Montserrat:wght@500&family=Poppins&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.container {
+    background-color: rgb(232, 232, 232);
+    outline: 1px solid black;
+    border-radius: 5px;
+    width: 240px;
+}
+
+h1{
+ color: black;
+ margin-left: 50px;
+
+}
+
+span {
+    font-size: 40px;
+    margin-left: 100px;
+}
+
+.btn {
+outline: none;
+border: none;
+height: 40px;
+font-size: 17px;
+background-color: rgb(56, 56, 56);
+color: white;
+
+}
